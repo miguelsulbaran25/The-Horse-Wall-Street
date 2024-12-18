@@ -32,7 +32,6 @@ Filtro de Órdenes:
 Ajuste de Órdenes: Permite activar o desactivar un ajuste de las órdenes basándose en el comportamiento del mercado, como aumentar o disminuir el máximo y mínimo de las operaciones para adaptarse a las condiciones del mercado.
 Distancia de Ajuste: Establece cuántos puntos debe moverse una orden para que se realice el ajuste.
 Filtro de Noticias:
-Filtro de Noticias: Si se activa, se desactiva el trading cuando se detectan noticias importantes que pueden causar volatilidad.
 Palabras Clave de Noticias: Utiliza palabras clave para identificar noticias económicas o políticas importantes que puedan afectar al mercado.
 Monedas Relacionadas con las Noticias: Filtra las noticias según las monedas que afectan, como USD, EUR, JPY, etc.
 Detener y Reanudar el Trading: Detiene el trading antes de una noticia importante y lo reanuda después, en un rango de tiempo definido.
