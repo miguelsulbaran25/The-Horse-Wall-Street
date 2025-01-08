@@ -1,4 +1,4 @@
-# The-Horse-Wall-Street
+# The-Wall-Street-Horse
 La estrategia del bot esta basada en el rompimiento de maximos y minimos , calcula el maximo y el minimo en la cantidad de velas puestas en el parametro , ademas trabaja con control horario para evitar esas horas lentas del mercado o en los momentos donde aumenta el spreed de manera exponencial ya que podria sacar operaciones en perdida.
 El bot es optimizable en cualquier par de forex.
 Entradas Generales:
